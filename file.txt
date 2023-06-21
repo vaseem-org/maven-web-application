@@ -1,0 +1,5 @@
+#fILE CONTAINS THE GIT info 
+git clone
+git remote add
+git push
+git pull
